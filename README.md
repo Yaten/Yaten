@@ -26,6 +26,10 @@ Passionate self-taught web developer with over ten years of experience, part-tim
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaten&theme=dracula&hide_border=true" alt="yaten" /></a>
 </p>
 
+---
+
+> *No matter where you go, everyone’s connected. – Lain Iwakura*
+
 <!--
 **Yaten/Yaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
