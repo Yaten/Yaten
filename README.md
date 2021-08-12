@@ -1,4 +1,28 @@
-### Hi there 👋
+
+<h3 align="center">👋 Hi there!</h3>
+<h3 align="center">I'm Paulo Rafael Ramalho a.k.a. Yaten</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prafaelramalho/">Linkedin</a> •
+  <a href="https://discordapp.com/users/184121880695799808">Discord</a> •
+  <a href="https://www.instagram.com/xyaten/">Instagram</a>
+</p>
+
+---
+
+- 💻 I'm currently working at [Studio XE54](https://xe54.pro/) and studying at [42SP](https://www.42sp.org.br/)
+- ⚙️ I use daily: `.php`, `.c`, `.js`, `.html`, `.css`, `.psd`
+- 🌱 Learning all about **Open Source**
+- 📫 Reach me: [Yaten#0988 at Discord](https://discordapp.com/users/184121880695799808)
+- ⚡️ Fun fact: I'm a huge fan of **Serial Experiments Lain** and **Harry Potter**
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaten&title=Commit,Followers&theme=onedark&row=1&column=2&no-bg=true&margin-w=15&no-frame=true" alt="yaten" /></a>
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaten&theme=dracula&hide_border=true" alt="yaten" /></a>
+</p>
 
 <!--
 **Yaten/Yaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
