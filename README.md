@@ -7,6 +7,8 @@
   <a href="https://www.instagram.com/xyaten/">Instagram</a>
 </p>
 
+Passionate self-taught web developer with over ten years of experience, part-time coder and full-time adventure seeker. I love to explore new technologies and leverage them to solve real-life problems.
+
 ---
 
 - 💻 I'm currently working at [Studio XE54](https://xe54.pro/) and studying at [42SP](https://www.42sp.org.br/)
