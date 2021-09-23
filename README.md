@@ -27,6 +27,11 @@ Passionate self-taught web developer with over ten years of experience, part-tim
 </p>
 
 ---
+### 42 Projects
+
+<a href="https://github.com/Yaten/42-libft"><img src="img/libft.png" alt="libft 115/125"></a>
+
+---
 
 > *No matter where you go, everyone’s connected. – Lain Iwakura*
 
