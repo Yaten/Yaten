@@ -13,7 +13,7 @@ Passionate self-taught web developer with over ten years of experience, part-tim
 
 - 💻 I'm currently working at [Studio XE54](https://xe54.pro/) and studying at [École 42](https://www.42.fr/) - [São Paulo unit](https://www.42sp.org.br/)
 - ⚙️ I use daily: `.php`, `.c`, `.js`, `.html`, `.css`, `.psd`
-- 🌱 Learning all about **C**
+- 🌱 Learning all about `C`
 - 📫 Reach me: contact@yaten.dev or [Yaten#0988 at Discord](https://discordapp.com/users/184121880695799808)
 - ⚡️ Fun fact: I'm a huge fan of **Serial Experiments Lain** and **Harry Potter**
 
