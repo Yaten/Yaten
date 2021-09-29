@@ -29,7 +29,8 @@ Passionate self-taught web developer with over ten years of experience, part-tim
 ---
 ### 42 Projects
 
-<a href="https://github.com/Yaten/42-libft"><img src="img/libft.png" alt="libft 115/125"></a>
+<a href="https://github.com/Yaten/42-libft"><img src="img/libft.png" alt="libft 115/100"></a>
+<a href="https://github.com/Yaten/42-get_next_line"><img src="img/gnl.png" alt="GNL 125/100"></a>
 
 ---
 
