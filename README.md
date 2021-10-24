@@ -20,7 +20,7 @@ Passionate self-taught web developer with over ten years of experience, part-tim
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaten&title=Commit,Followers&theme=onedark&row=1&column=2&no-bg=true&margin-w=15&no-frame=true" alt="yaten" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=yaten&title=Commit,Followers,Stars&theme=onedark&row=1&column=3&no-bg=true&margin-w=15&no-frame=true" alt="yaten" /></a>
   <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaten&theme=dracula&hide_border=true" alt="yaten" /></a>
