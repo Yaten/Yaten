@@ -31,8 +31,9 @@ Passionate self-taught web developer with over ten years of experience, part-tim
   <a href="https://github.com/Yaten/42-libft"><img src="img/libft.png" alt="libft 115/100"></a>
   <a href="https://github.com/Yaten/42-get_next_line"><img src="img/gnl-star.png" alt="GNL 125/100"></a>
   <a href="https://github.com/Yaten/42-ft_printf"><img src="img/ft_printf.png" alt="ft_printf 100/100"></a>
-  <a href="https://github.com/Yaten/42-Born2beroot"><img src="img/born2beroot-star.png" alt="WIP"></a>
-  <a href="https://github.com/Yaten/42-SoLong"><img src="img/so_long.png" alt="WIP"></a>
+  <a href="https://github.com/Yaten/42-born2beroot"><img src="img/born2beroot-star.png" alt="125/100"></a>
+  <a href="https://github.com/Yaten/42-so_long"><img src="img/so_long-gray.png" alt="WIP"></a>
+  <a href="https://github.com/Yaten/42-pipex"><img src="img/pipex-gray.png" alt="WIP"></a>
 </p>
 
 ---
