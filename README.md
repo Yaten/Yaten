@@ -32,14 +32,12 @@ Passionate self-taught web developer with over ten years of experience, part-tim
 
 ---
 ### 42 Projects
-<p align="center">
-  <a href="https://github.com/Yaten/42-libft"><img src="img/libft.png" alt="libft 115/100"></a>
-  <a href="https://github.com/Yaten/42-get_next_line"><img src="img/gnl-star.png" alt="GNL 125/100"></a>
-  <a href="https://github.com/Yaten/42-ft_printf"><img src="img/ft_printf.png" alt="ft_printf 100/100"></a>
-  <a href="https://github.com/Yaten/42-born2beroot"><img src="img/born2beroot-star.png" alt="125/100"></a>
-  <a href="https://github.com/Yaten/42-so_long"><img src="img/so_long-star.png" alt="125/100"></a>
-  <a href="https://github.com/Yaten/42-pipex"><img src="img/pipex-gray.png" alt="WIP"></a>
-</p>
+  [![](https://github.com/Yaten/42/blob/main/img/libft.png)](https://github.com/Yaten/42-libft)
+  [![](https://github.com/Yaten/42/blob/main/img/gnl-star.png)](https://github.com/Yaten/42-get_next_line)
+  [![](https://github.com/Yaten/42/blob/main/img/ft_printf.png)](https://github.com/Yaten/42-ft_printf)
+  [![](https://github.com/Yaten/42/blob/main/img/born2beroot-star.png)](https://github.com/Yaten/42-born2beroot)
+  [![](https://github.com/Yaten/42/blob/main/img/so_long-star.png)](https://github.com/Yaten/42-so_long)
+  [![](https://github.com/Yaten/42/blob/main/img/pipex-gray.png)](https://github.com/Yaten/#)
 
 ---
 
