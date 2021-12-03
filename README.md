@@ -1,4 +1,3 @@
-
 <h3 align="center">👋 Hi there!</h3>
 <h3 align="center">I'm Paulo Rafael Ramalho a.k.a. Yaten</h3>
 <p align="center">
@@ -31,14 +30,15 @@ Passionate self-taught web developer with over ten years of experience, part-tim
 </p>
 
 ---
-### 42 Projects
-  [![](https://github.com/Yaten/42/blob/main/img/libft.png)](https://github.com/Yaten/42-libft)
-  [![](https://github.com/Yaten/42/blob/main/img/gnl-star.png)](https://github.com/Yaten/42-get_next_line)
-  [![](https://github.com/Yaten/42/blob/main/img/ft_printf.png)](https://github.com/Yaten/42-ft_printf)
-  [![](https://github.com/Yaten/42/blob/main/img/born2beroot-star.png)](https://github.com/Yaten/42-born2beroot)
-  [![](https://github.com/Yaten/42/blob/main/img/so_long-star.png)](https://github.com/Yaten/42-so_long)
-  [![](https://github.com/Yaten/42/blob/main/img/pipex-gray.png)](https://github.com/Yaten/#)
+# 42 badges
 
+### phase 1
+  [![](https://github.com/Yaten/42/blob/main/img/125px/libft.png)](https://github.com/Yaten/42-libft)
+  [![](https://github.com/Yaten/42/blob/main/img/125px/gnl-star.png)](https://github.com/Yaten/42-get_next_line)
+  [![](https://github.com/Yaten/42/blob/main/img/125px/ft_printf.png)](https://github.com/Yaten/42-ft_printf)
+  [![](https://github.com/Yaten/42/blob/main/img/125px/born2beroot-star.png)](https://github.com/Yaten/42-born2beroot)
+  [![](https://github.com/Yaten/42/blob/main/img/125px/so_long-star.png)](https://github.com/Yaten/42-so_long)
+  [![](https://github.com/Yaten/42/blob/main/img/125px/pipex.png)](https://github.com/Yaten/#)
 ---
 
 > *No matter where you go, everyone’s connected. – Lain Iwakura*
