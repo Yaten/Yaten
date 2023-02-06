@@ -2,7 +2,7 @@ Passionate self-taught web developer with over ten years of experience, part-tim
 
 > *No matter where you go, everyone’s connected. – Lain Iwakura*
 
-![Coding Lang](https://wakatime.com/share/@f49af3b9-cc3c-4b38-b0be-472cd3012e17/46cae251-bec7-49d7-9759-cf84be0ecfd7.png "Coding Lang")
+![Coding Lang](https://wakatime.com/share/@f49af3b9-cc3c-4b38-b0be-472cd3012e17/53d15fd8-2eaa-429a-be5c-072a85c1f503.png "Coding Lang")
 
 <!--
 **Yaten/Yaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
